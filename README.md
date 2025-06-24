@@ -39,10 +39,6 @@ It's also important to note that some frequent items exhibit relationships with 
 
 Furthermore, the generated association rules were applied to inform product discounting decisions. To maximize customer satisfaction, nine individual items were selected for discounting, with the goal of representing one key item from each significant product grouping identified through the analysis.
 
-## Conclusion
-
-The analysis highlights the potential of association rule mining to uncover hidden relationships in data and inform decision-making.
-
 ## Further Exploration
 
 I would like to extend this analysis by:
