@@ -1,4 +1,4 @@
-# apriori_algorithm
+# Online Retail Market Basket Analysis with Apriori
 Association Rule Mining with Apriori in Python
 
 ## Project Overview
